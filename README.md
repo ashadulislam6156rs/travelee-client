@@ -5,6 +5,10 @@ Travelee is a collaborative platform designed to help travelers plan itineraries
 
 ---
 
+## Live Demo
+
+* [Click Travelee](https://travelee-client.vercel.app)
+
 ## 🚀 Key Features
 * **Smart Itineraries:** Drag-and-drop trip scheduling.
 * **Budget Tracker:** Real-time expense monitoring and currency conversion.
